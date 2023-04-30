@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Curso Vue 3",
+      "author": "renato lemos mendes",
+      "content": "Este é um artigo sobre  <b>Vue 3</b>, Quasar e API REST."
+    },
+    {
+      "title": "Cursto Quasar Crud",
+      "content": "testando o teste",
+      "author": "Renato Lemos Mendes",
+      "id": 2
+    },
+    {
+      "title": "Novo Artigo para a galera",
+      "content": "<i style=\"\"><b>Este é o novo artigo da galera !</b></i>",
+      "author": "Steve Jobs",
+      "id": 3
+    }
+  ]
+}
